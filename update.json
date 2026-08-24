@@ -2,5 +2,9 @@
   "updateKey": "Subha",
   "forceUpdate": false,
   "expired": false,
-  "contactUrl": "https://t.me/EliyaAdmin"
+  "showUpdate": false,
+  "title": "APK EXPIRE",
+  "message": "NEW SESSION COMING\nUPDATE YOUR APK",
+  "buttonText": "UPDATE NOW",
+  "contactUrl": "https://t.me/RanaApk"
 }
