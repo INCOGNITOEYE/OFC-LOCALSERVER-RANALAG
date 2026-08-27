@@ -1,10 +1,10 @@
 {
   "updateKey": "Rakshabandhan",
-  "forceUpdate": false,
-  "expired": false,
-  "showUpdate": false,
-  "title": "APK EXPIRE",
-  "message": "NEW SESSION COMING\nUPDATE YOUR APK",
-  "buttonText": "UPDATE NOW",
-  "contactUrl": "https://wispy-pine-40a4.business-nobitaeditz.workers.dev/"
+  "forceUpdate": true,
+  "expired": true,
+  "showUpdate": true,
+  "title": "অন্তিচিট ডিটেকটেড",
+  "message": "আমরা খুব তারাতারি নতুন আপডেট নিয়ে আসবো",
+  "buttonText": "🫩 ওয়েট করো 🫩",
+  "contactUrl": "https://t.me/EliyaLinks"
 }
