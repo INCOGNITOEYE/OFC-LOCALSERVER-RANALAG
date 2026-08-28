@@ -1,8 +1,8 @@
 {
-  "updateKey": "Fix",
-  "forceUpdate": true,
-  "expired": true,
-  "showUpdate": true,
+  "updateKey": "Rakshabandhan",
+  "forceUpdate": false,
+  "expired": false,
+  "showUpdate": false,
   "title": "SERVER ELIMINATE",
   "message": "আমরা খুব তারাতারি নতুন আপডেট নিয়ে আসবো",
   "buttonText": "🫩 ওয়েট করো 🫩",
