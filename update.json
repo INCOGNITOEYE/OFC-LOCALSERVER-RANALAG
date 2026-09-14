@@ -1,10 +1,10 @@
 {
   "updateKey": "Rakshabandhan",
-  "forceUpdate": false,
-  "expired": false,
-  "showUpdate": false,
-  "title": "SERVER ELIMINATE",
-  "message": "আমরা খুব তারাতারি নতুন আপডেট নিয়ে আসবো",
-  "buttonText": "🫩 ওয়েট করো 🫩",
-  "contactUrl": "https://t.me/EliyaLinks"
+  "forceUpdate": true,
+  "expired": true,
+  "showUpdate": true,
+  "title": "BUY SUBSCRIPTION",
+  "message": "NOW BUY P4NEL & USE",
+  "buttonText": "🫩 FREE TRIAL END 🫩",
+  "contactUrl": "https://t.me/MythAdmin"
 }
